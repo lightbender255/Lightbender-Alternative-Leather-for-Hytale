@@ -1,0 +1,21 @@
+{
+  "Group": "Aphidac",
+  "Name": "Alternative Leather",
+  "Version": "1.0.0",
+  "Description": "An alternative way to obtain leather without killing animals.",
+  "Authors": [
+    {
+      "Name": "Aphidac",
+      "Email": "archlight.aphidac@gmail.com",
+      "Url": "https://www.curseforge.com/members/aphidac"
+    }
+  ],
+  "Website": "https://www.curseforge.com/members/aphidac",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": true,
+  "ServerVersion": ">=0.7.0 <0.8.0",
+  "SubPlugins": []
+}
