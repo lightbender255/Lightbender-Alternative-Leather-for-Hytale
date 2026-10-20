@@ -1,5 +1,7 @@
 # Lightbender's "Alternative Leather for Hytale"
 
+<img src="icon.png" width="200" align="right">
+
 This is a compatibility fix and improved version of the original [Alternative Leather](https://www.curseforge.com/hytale/mods/alternative-leather) mod by [Aphidac](https://www.curseforge.com/members/aphidac). It ensures the mod works correctly with Hytale server version **0.7.1** and earlier alpha builds.
 
 ## Features
