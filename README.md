@@ -1,6 +1,6 @@
-# Lightbender Alternative Leather for Hytale
+# Lightbender's "Alternative Leather for Hytale"
 
-This is a compatibility fix and improved version of the original "Alternative Leather" mod by Aphidac. It ensures the mod works correctly with Hytale server version **0.7.1** and earlier alpha builds.
+This is a compatibility fix and improved version of the original [Alternative Leather](https://www.curseforge.com/hytale/mods/alternative-leather) mod by [Aphidac](https://www.curseforge.com/members/aphidac). It ensures the mod works correctly with Hytale server version **0.7.1** and earlier alpha builds.
 
 ## Features
 - **Animal Friendly:** Obtain leather items without needing to kill animals.
@@ -19,4 +19,5 @@ This is a compatibility fix and improved version of the original "Alternative Le
 3. Restart your server.
 
 ## Original Credits
-Original mod concept and assets by **Aphidac**.
+Original mod concept and assets by [Aphidac](https://www.curseforge.com/members/aphidac).
+Original Mod Page: [Alternative Leather on CurseForge](https://www.curseforge.com/hytale/mods/alternative-leather)
