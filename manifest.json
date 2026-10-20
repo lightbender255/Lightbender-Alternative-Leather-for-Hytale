@@ -1,16 +1,19 @@
 {
-  "Group": "Aphidac",
-  "Name": "Alternative Leather",
-  "Version": "1.0.0",
-  "Description": "An alternative way to obtain leather without killing animals.",
+  "Group": "Lightbender",
+  "Name": "Lightbender Alternative Leather",
+  "Version": "1.0.1",
+  "Description": "A compatibility fix for the 'Alternative Leather' mod. Allows obtaining leather without killing animals and fixes the log-to-bark mechanic for Hytale 0.7.1. Original mod: https://www.curseforge.com/hytale/mods/alternative-leather",
   "Authors": [
     {
-      "Name": "Aphidac",
-      "Email": "archlight.aphidac@gmail.com",
+      "Name": "Lightbender255",
+      "Url": "https://github.com/lightbender255"
+    },
+    {
+      "Name": "Aphidac (Original Author)",
       "Url": "https://www.curseforge.com/members/aphidac"
     }
   ],
-  "Website": "https://www.curseforge.com/members/aphidac",
+  "Website": "https://github.com/lightbender255/Lightbender-Alternative-Leather-for-Hytale",
   "Dependencies": {},
   "OptionalDependencies": {},
   "LoadBefore": {},
